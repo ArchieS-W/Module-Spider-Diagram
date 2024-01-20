@@ -31,14 +31,14 @@ def get_urls(soup):
 
     # Extract and return the URLs
     urls = [anchor['href'].replace('/../..', 'https://business-school.exeter.ac.uk') for anchor in anchor_elements if anchor['href'].startswith('/../../')]
-    print(urls)
+    urls = list(set(urls))
     return urls
 
 
 # Check if the main page is successfully fetched
 def main_page_urls():
     # Specify the start and end lines for the subset (adjust these according to your HTML structure)
-    start_line = 657
+    start_line = 612
     end_line = 811
 
     # Extract and parse HTML between specified lines
@@ -68,6 +68,19 @@ def get_module_prerequisites(soup):
             return prereq_data
         else:
             print("Module pre-requisites not found on the webpage.")
+            
+def get_module_corequisites(soup):
+        # Search for the <th> element containing "Module pre-requisites"
+        prereq_heading = soup.find('th', string='Module co-requisites')
+        
+        if prereq_heading:
+            # Get the next sibling <td> element, which contains the data
+            prereq_data = prereq_heading.find_next('td').get_text(strip=True)
+            
+            # Return the data
+            return prereq_data
+        else:
+            print("Module co-requisites not found on the webpage.")
         
 def get_moudle_title(soup):
     title =soup.find("h1")
@@ -75,20 +88,21 @@ def get_moudle_title(soup):
     return module_title
 
 # Create an empty DataFrame
-df = pd.DataFrame(columns=['URL', 'Module Prerequisites'])
+df = pd.DataFrame(columns=['URL', 'Module Prerequisites','Module Corequisites'])
 
 # Iterate through the URLs and populate the DataFrame
 for url in urls:
     soup = read_html(url)
     module_prerequisites_data = get_module_prerequisites(soup)
+    module_corequisites_data = get_module_corequisites(soup) 
     module_title_data = get_moudle_title(soup)
-    print(module_prerequisites_data)
-    if module_prerequisites_data is not None:
-        df = df._append({'URL':module_title_data , 'Module Prerequisites': module_prerequisites_data}, ignore_index=True)
+    print(module_corequisites_data)
+    if module_prerequisites_data is not None and module_corequisites_data is not None:
+        df = df._append({'URL':module_title_data , 'Module Prerequisites': module_prerequisites_data, 'Module Corequisites':module_corequisites_data}, ignore_index=True)
 
-# Display the DataFrame
+ #Display the DataFrame
 print(df)
 
 # If you want to save the DataFrame to a CSV file
-#df.to_csv('module_prerequisites_data.csv', index=False)
-#print("Data stored in 'module_prerequisites_data.csv'")
+df.to_csv('module_prerequisites_data.csv', index=False)
+print("Data stored in 'module_prerequisites_data.csv'")
