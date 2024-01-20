@@ -30,7 +30,8 @@ def get_urls(soup):
     anchor_elements = soup.find_all('a', href=True)
 
     # Extract and return the URLs
-    urls = [anchor['href'] for anchor in anchor_elements if anchor['href'].startswith('https')]
+    urls = [anchor['href'] for anchor in anchor_elements if anchor['href'].startswith('/../../')]
+    replace = "https://business-school.exeter.ac.uk"
     return urls
 
 
