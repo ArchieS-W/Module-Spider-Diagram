@@ -30,8 +30,8 @@ def get_urls(soup):
     anchor_elements = soup.find_all('a', href=True)
 
     # Extract and return the URLs
-    urls = [anchor['href'] for anchor in anchor_elements if anchor['href'].startswith('/../../')]
-    replace = "https://business-school.exeter.ac.uk"
+    urls = [anchor['href'].replace('/../..', 'https://business-school.exeter.ac.uk') for anchor in anchor_elements if anchor['href'].startswith('/../../')]
+    print(urls)
     return urls
 
 
@@ -82,6 +82,7 @@ for url in urls:
     soup = read_html(url)
     module_prerequisites_data = get_module_prerequisites(soup)
     module_title_data = get_moudle_title(soup)
+    print(module_prerequisites_data)
     if module_prerequisites_data is not None:
         df = df._append({'URL':module_title_data , 'Module Prerequisites': module_prerequisites_data}, ignore_index=True)
 
