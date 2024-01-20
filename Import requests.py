@@ -30,12 +30,9 @@ def get_urls(soup):
     anchor_elements = soup.find_all('a', href=True)
 
     # Extract and return the URLs
-    urls = [anchor['href'] for anchor in anchor_elements]
+    urls = [anchor['href'] for anchor in anchor_elements if anchor['href'].startswith('https')]
     return urls
 
-# Example usage
-module_page = "https://business-school.exeter.ac.uk/study/undergraduate/modules/"
-main_page_soup = read_html(module_page)
 
 # Check if the main page is successfully fetched
 def main_page_urls():
@@ -48,10 +45,15 @@ def main_page_urls():
 
     # Get URLs from the subset
     subset_urls = get_urls(subset_soup)
+    
+    
 
     # Display the extracted URLs
-    print (subset_urls)
+    return (subset_urls)
 
+module_page = "https://business-school.exeter.ac.uk/study/undergraduate/modules/"
+main_page_soup = read_html(module_page)
+urls = main_page_urls()
 
 def get_module_prerequisites(soup):
         # Search for the <th> element containing "Module pre-requisites"
@@ -70,16 +72,13 @@ def get_moudle_title(soup):
     title =soup.find("h1")
     module_title = title.get_text(strip = True)
     return module_title
-            
-# URLs of the webpages
-urls = main_page_urls
-print(urls)
+
 # Create an empty DataFrame
 df = pd.DataFrame(columns=['URL', 'Module Prerequisites'])
-'''
+
 # Iterate through the URLs and populate the DataFrame
 for url in urls:
-    soup = readhtml(url)
+    soup = read_html(url)
     module_prerequisites_data = get_module_prerequisites(soup)
     module_title_data = get_moudle_title(soup)
     if module_prerequisites_data is not None:
@@ -91,4 +90,3 @@ print(df)
 # If you want to save the DataFrame to a CSV file
 #df.to_csv('module_prerequisites_data.csv', index=False)
 #print("Data stored in 'module_prerequisites_data.csv'")
-'''
