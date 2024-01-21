@@ -9,7 +9,7 @@ with open('html.txt', 'r') as txtfile, open('test.csv', 'w', newline='') as csvf
     
     # Write the header row to the CSV file
     csv_writer.writerow(['Module Code', 'Module Title', 'Credits', 'Term', 'ELE Link'])
-    
+
     # Iterate through the lines in the text file
     for line in txtfile:
         # Parse the line as HTML using BeautifulSoup
@@ -24,11 +24,17 @@ with open('html.txt', 'r') as txtfile, open('test.csv', 'w', newline='') as csvf
             module_title = a_tag.text
             credits = soup.find_all('td')[1].text
             term = soup.find_all('td', class_='nowrap')[0].text
-            
-            # Find the ELE link, if it exists
-            ele_link_element = soup.find('a', href=True, text=re.compile(r'on ELE'))
-            ele_link = ele_link_element['href'] if ele_link_element else ''
-            
+
+            # Extract the incomplete URL using regex
+            incomplete_url = re.findall(r'\/\.\.\/\.\.\/(.*?)\'>', line)
+
+            print(incomplete_url)
+            if incomplete_url:
+                # Complete the URL by adding the prefix
+                ele_link = "https://business-school.exeter.ac.uk/" + incomplete_url[0].replace('amp;', '')
+            else:
+                ele_link = ''
+
             # Write the extracted data to the CSV file
             csv_writer.writerow([module_code, module_title, credits, term, ele_link])
 

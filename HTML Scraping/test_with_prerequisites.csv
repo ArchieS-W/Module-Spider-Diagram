@@ -1,0 +1,199 @@
+Module Code,Module Title,Credits,Term,ELE Link,prerequisites,Prerequisites,Coerequisites
+BEA1003,Business Law for Accountants,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEA1003&ay=2023/4&sys=0,,This module is for Accounting students only,BEA1008
+BEA1008,Introduction to Financial Accounting,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEA1008&ay=2023/4&sys=0,,None,Cannot be taken concurrently with BEA1013 Introduction to Accounting
+BEA1009,Introduction to Management Accounting,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEA1009&ay=2023/4&sys=0,,Module pre-requisites not found on the webpage.,BEA1008 Introduction to Financial AccountingCannot be taken with BEA1013 Introduction to Accounting
+BEA1010,Business Finance for Accountants,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEA1010&ay=2023/4&sys=0,,This module is for Accounting students only,BEA1008 Introduction to Financial AccountingNon-requisites: Cannot be taken with BEE1024 Mathematics for Economists.
+BEA1012,Introduction to Statistics for Accountants,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEA1012&ay=2023/4&sys=0,,This module is for Accounting students only,"Non-requisites: Cannot be taken with BEE1022, BEE1025 or BEM1024."
+BEA1013,Introduction to Accounting,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEA1013&ay=2023/4&sys=0,,None,Not to be taken with BEA1008 or BEA1009.
+BEA2002,Taxation,30.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEA2002&ay=2023/4&sys=0,,BEA1008 Introduction to Financial Accounting or BEA1013 Introduction to Accounting,None
+BEA2010,Managerial Accounting,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEA2010&ay=2023/4&sys=0,,BEA1013 Introduction to Accounting,Cannot be taken with BEA2017 Intermediate Management Accounting or BEA3017 Advanced Management Accounting
+BEA2017,Intermediate Management Accounting,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEA2017&ay=2023/4&sys=0,,BEA1009 Introduction to Management Accounting,Cannot be taken with BEA2010 Managerial Accounting
+BEA2018,Corporate Finance,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEA2018&ay=2023/4&sys=0,,BEA1010,Cannot be taken with BEE3059 or BEA3008
+BEA2019,Financial Accounting A,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEA2019&ay=2023/4&sys=0,,BEA/INT1008 Introduction to Financial Accounting,BEA2020 Financial Accounting B
+BEA2020,Financial Accounting B,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEA2020&ay=2023/4&sys=0,,BEA/INT1008 Introduction to Financial Accounting,BEA2019 Financial Accounting A
+BEA3008,Finance for Managers,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEA3008&ay=2023/4&sys=0,,BEA2010 Managerial Accounting,"Cannot be taken BEA2018, BEA3018 or BEE3059"
+BEA3015,Corporate Law,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEA3015&ay=2023/4&sys=0,,BEA1003.Please note this module cannot be taken with LAW3083,None
+BEA3017,Advanced Management Accounting,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEA3017&ay=2023/4&sys=0,,BEA2017,Cannot be taken with BEA2010 managerial accounting
+BEA3018,Advanced Corporate Finance,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEA3018&ay=2023/4&sys=0,,BEA2018 Corporate Finance,Cannot be taken with BEA3008 or BEE3059
+BEA3020,Advanced Financial Reporting,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEA3020&ay=2023/4&sys=0,,BEA2019 and BEA2020,None
+BEA3022,Auditing,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEA3022&ay=2023/4&sys=0,,BEA2019 and BEA2020 (For UG students),BEAM024 (For MSc Accounting & Finance students)
+BEA3026,Financial Modelling,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEA3026&ay=2023/4&sys=0,,BEA2018 Corporate Finance Or BEE2027 Financial Markets and Decisions,None
+BEA3027,"Accounting, Organisations and Society",15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEA3027&ay=2023/4&sys=0,,None,None
+BEA3028,Sustainable and Responsible Finance,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEA3028&ay=2023/4&sys=0,,None,None
+BEE1006,Introduction to Finance,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE1006&ay=2023/4&sys=0,,None,None
+BEE1022,Introduction to Statistics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE1022&ay=2023/4&sys=0,,Grade B or higher in A-Level Mathematics (or equivalent),"Cannot be taken with BEE1025, BEM1024 or BEA1012This module is not available to Maths students"
+BEE1023,Introduction to Econometrics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE1023&ay=2023/4&sys=0,,Grade B or higher in A-Level Mathematics (or equivalent)BEE1022orBEE1025orBEA1012orINT1003,Cannot be taken with MTH1004 (non-requisite)
+BEE1024,Mathematics for Economists,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE1024&ay=2023/4&sys=0,,BEE1035 or A level Mathematics at Grade B or above (or equivalent),Non-Req - Cannot be taken with BEA1010 or at the same time as BEE1035.Not available to 2ndyear AF students or Maths students
+BEE1025,Statistics for Business and Management,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE1025&ay=2023/4&sys=0,,None,"Cannot be taken with BEE1022 Introduction to Statistics, BEA1012 Introduction to Statistics for Accountants or BEM1024 Statistics for Business.Please note that this module is also not available to Maths students."
+BEE1029,Economic Principles,30.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE1029&ay=2023/4&sys=0,,None,Non-requisites (cannot be taken with): BEE1034 or BEE1036 or BEE1037
+BEE1032,History of Economic Thought,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE1032&ay=2023/4&sys=0,,None,BEE1030 or BEE1031 or BEE1029 or BEE1034
+BEE1034,Economics for Management,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE1034&ay=2023/4&sys=0,,None,"noneNon-requisites: Cannot be taken with BEE1029, BEE1036 or BEE1037"
+BEE1035,Basic Quantitative Methods,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE1035&ay=2023/4&sys=0,,None.,"Non-Req: Cannot be taken with BEE1024 in the same academic yearNot available to 2ndyear AF students, Maths students or Direct Entry Business Economics students."
+BEE1036,Economics I,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE1036&ay=2023/4&sys=0,,A Level Maths at Grade B or above (or Equivalent),BEE1024. Cannot be taken with BEE1029 or BEE1034
+BEE1037,Economics II,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE1037&ay=2023/4&sys=0,,BEE1036,Cannot be taken with BEE1029 or BEE1034
+BEE1038,Introduction to Data Science in Economics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE1038&ay=2023/4&sys=0,,None,BEE1022 or BEE1025
+BEE1039,Introduction to Behavioural Economics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE1039&ay=2023/4&sys=0,,None,BEE1029 or BEE1036 and BEE1037
+BEE1040,Personal Finance,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE1040&ay=2023/4&sys=0,,None,None
+BEE2010,Philosophy of Economics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE2010&ay=2023/4&sys=0,,None. Please note if you have taken BEE1015 you will not be able to take BEE2010,None
+BEE2020,Introduction to Econometric Theory,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE2020&ay=2023/4&sys=0,,BEE1022andBEE1023,BEE2006orBEE2031
+BEE2021,Policy Issues in the Global Economy,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE2021&ay=2023/4&sys=0,,None,BEE2038 and BEE2039orBEE2025 and BEE2026
+BEE2025,Microeconomics II,30.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEE2025&ay=2023/4&sys=0,,Passed BEE1036 and passed BEE1037 (or BEE1029 for PPE students only),"Non-Requisites (cannot be taken with): BEE2038, BEE2039, BEE3062 or BEE3063"
+BEE2026,Macroeconomics II,30.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEE2026&ay=2023/4&sys=0,,Passed BEE1036 and passed BEE1037,"Non-Requisites (cannot be taken with): BEE2038, BEE2039, or BEE3062."
+BEE2027,Financial Markets and Decisions I,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE2027&ay=2023/4&sys=0,,None,BEE2025
+BEE2030,Economics and Ethics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE2030&ay=2023/4&sys=0,,BEE1029 or BEE1034 or BEE1036 and BEE1037,None
+BEE2031,Econometrics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE2031&ay=2023/4&sys=0,,BEE1023,None
+BEE2032,Applied Econometrics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE2032&ay=2023/4&sys=0,,BEE2031,BEE2031 or BEE2006
+BEE2033,Public Finance,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE2033&ay=2023/4&sys=0,,BEE1029 or BEE1034 or (BEE1036 and BEE1037),None
+BEE2034,Environmental Economics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE2034&ay=2023/4&sys=0,,BEE1036 and BEE1037 or BEE1029,None
+BEE2035,Family Economics and Policy,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE2035&ay=2023/4&sys=0,,BEE1036 and BEE1037 or BEE1029,None
+BEE2037,Money and Banking,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE2037&ay=2023/4&sys=0,,BEE1029 or (BEE1036 and BEE1037),BEE2038 and BEE2039 or BEE2025 and BEE2026
+BEE2038,Intermediate Microeconomics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE2038&ay=2023/4&sys=0,,BEE1029 or BEE1034 OR BEE1036 and BEE1037,Cannot be taken with BEE2025 and BEE2026
+BEE2039,Intermediate Macroeconomics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE2039&ay=2023/4&sys=0,,BEE1029 or BEE1034 or BEE1036 and BEE1037,Cannot be taken with BEE2025 and BEE2026
+BEE2040,The Economics of Financial Crises,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE2040&ay=2023/4&sys=0,,None,None. Cannot be taken with BEE3051.
+BEE2041,Data Science in Economics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE2041&ay=2023/4&sys=0,,BEE1038,None
+BEE2042,Behavioural Insights for Business and Management,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE2042&ay=2023/4&sys=0,,BEE1036 or BEE1029,None
+BEE2043,Industrial Organisation,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE2043&ay=2023/4&sys=0,,"BEE1036, BEE1024",None
+BEE2044,Game Theory,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE2044&ay=2023/4&sys=0,,BEE1036 and BEE1037,None
+BEE3015,Econometric Analysis,30.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEE3015&ay=2023/4&sys=0,,BEE2031 and BEE2020,None
+BEE3019,Law and Economics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE3019&ay=2023/4&sys=0,,BEE2025 OR BEE2038,None
+BEE3032,Futures and Options,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE3032&ay=2023/4&sys=0,,BEE1029 or BEE1030 or (BEE1036 and BEE1037) or BEE2024 or (BEE2038 and BEE2039),None
+BEE3034,Financial Markets and Decisions 2,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE3034&ay=2023/4&sys=0,,BEE2027,None
+BEE3042,International Political Economy,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE3042&ay=2023/4&sys=0,,None,None
+BEE3045,International Economics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE3045&ay=2023/4&sys=0,,BEE2025,None
+BEE3047,Public Economics 1,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE3047&ay=2023/4&sys=0,,BEE2024 or BEE2038 or BEE2025,None
+BEE3049,"Behaviour, Decisions and Markets",15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE3049&ay=2023/4&sys=0,,BEE2025,None
+BEE3052,Development Economics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE3052&ay=2023/4&sys=0,,BEE2024 or BEE2038 and BEE2039 or BEE2025 and BEE2026,None. Cannot be taken with BEE3052A
+BEE3053,Economic Growth,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE3053&ay=2023/4&sys=0,,BEE2039 or BEE2026,None
+BEE3054,Advanced Mathematics for Economists,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE3054&ay=2023/4&sys=0,,BEE2025 or BEE2026 or BEE1029 or BEE1034,None
+BEE3057,Labour Economics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE3057&ay=2023/4&sys=0,,BEE2025 and BEE2026,None
+BEE3058,Political Economics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE3058&ay=2023/4&sys=0,,BEE2025 and BEE2026,None
+BEE3059,Asset Pricing,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE3059&ay=2023/4&sys=0,,(passed BEE1024 and BEE1023 and BEE2025) or (MTH2008 and MTH2011),Cannot be taken with BEA2018 or BEA3018 or BEA3008
+BEE3063,Economics of Management Strategy,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE3063&ay=2023/4&sys=0,,BEE1035 Basic Quantitative Methods or an A-Level in Mathematics or equivalent)BEE2038 Intermediate Microeconomics,Cannot be taken with BEE2025 or BEE2043
+BEE3066,Machine Learning for Economics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE3066&ay=2023/4&sys=0,,BEE2031 or BEE2041,
+BEE3068,Economics Dissertation,30.0,,https://business-school.exeter.ac.uk/module/?mod_code=BEE3068&ay=2023/4&sys=0,,BEE1038 or BEE2041 or BEE2032 (or one of the co-requisites: BEE3066 or BEE3071) (effective March 2024 for academic year 2024-2025).,BEE3066 or BEE3071 (or one of the pre-requisites: BEE1038 or BEE2041 or BEE2032) (effective March 2024 for academic year 2024-2025). Not to be taken with BUS3001.
+BEE3069,Behavioural Economics: Theory and Practice,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE3069&ay=2023/4&sys=0,,"PrerequisitesFor Economics students: BEE1024 Mathematics for Economists AND BEE2025 Microeconomics IIFor non-Economics students (e.g. Maths, Physics, Engineering, Computer Science, Accounting and Finance): BEE1024 Mathematics for Economists or equivalentStudents with strong mathematical background (e.g. Mathematics, Computer Science, Data Science, Finance) interested in this module are encouraged to contact the convener even if you do not meet the pre-requisite requirements.",None
+BEE3070,Economic Analysis and Pandemics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE3070&ay=2023/4&sys=0,,"There are no pre-requisites for this module but students without some exposure to economics, basic econometrics and rigorous analytical thinking may find they need to do some additional reading.",None
+BEE3071,Applied Econometrics for Business,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE3071&ay=2023/4&sys=0,,Either BEE1022 or BEE1025 or BEA1012;andBEE2038 and BEE2039Please note this module cannot be taken by students who have previously studied BEE2025 and BEE2026.,
+BEE3072,Econometrics: Cause and Effect,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE3072&ay=2023/4&sys=0,,BEE2031,None
+BEE3073,Economics of Culture and Institutions,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE3073&ay=2023/4&sys=0,,"BEE2038 and BEE2039, or BEE2025 and BEE2026",None
+BEE3074,Economics of Crime,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEE3074&ay=2023/4&sys=0,,BEE2025 or BEE2038.,None
+BEE3109,"Bitcoin, Money and Trust",15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEE3109&ay=2023/4&sys=0,,There are no pre-requisites for this module but students without either programming or economics experience may find they need to do some additional reading,
+BEM1015,Marketing and Society,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM1015&ay=2023/4&sys=0,,BEM1019,None
+BEM1019,Fundamentals of Marketing,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM1019&ay=2023/4&sys=0,,Module pre-requisites not found on the webpage.,Non-requisite: INT1012 Fundamentals of Marketing
+BEM1021,Leadership and Teams,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM1021&ay=2023/4&sys=0,,None,None
+BEM1022,Introduction to Leadership Studies,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM1022&ay=2023/4&sys=0,,None,None
+BEM1023,Discovering Management,30.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEM1023&ay=2023/4&sys=0,,N/A,Cannot be taken with BEM1028 or BEM1016 / BEM1016a
+BEM1024,Statistics for Business,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM1024&ay=2023/4&sys=0,,This module is not available to Maths students.,Cannot be taken with BEE1022 or BEA1012 or BEE1025
+BEM1025,Programming for Business Analytics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM1025&ay=2023/4&sys=0,,None,None
+BEM1027,The International Business Context,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM1027&ay=2023/4&sys=0,,None,None
+BEM1028,Introduction to Business and Management,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM1028&ay=2023/4&sys=0,,This module is for students studying accountancy only.,None
+BEM1034,Introduction to Innovation and Entrepreneurship,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM1034&ay=2023/4&sys=0,,None,None
+BEM1039,Impactful Innovation and Entrepreneurship,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM1039&ay=2023/4&sys=0,,Module pre-requisites not found on the webpage.,None
+BEM2007,Operations Management,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM2007&ay=2023/4&sys=0,,None,None
+BEM2016,Consumer Behaviour,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2016&ay=2023/4&sys=0,,BEM1019,None
+BEM2021,Human Resource Management,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2021&ay=2023/4&sys=0,,BEM1023 or BEM1028.,None
+BEM2025,Marketing Communications: Strategies and Applications,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM2025&ay=2023/4&sys=0,,BEM1019 Fundamentals of Marketing,None
+BEM2027,Information Systems,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM2027&ay=2023/4&sys=0,,None,none
+BEM2031,Introduction to Business Analytics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2031&ay=2023/4&sys=0,,"BEE1025 Statistics for Business and Management or BEE1022 Introduction to Statistics or BEA1012 Introduction to Statistics for Accountants or MTH1004 Probability, Statistics and Data or MTH2006 Statistical Modelling and Inference",
+BEM2033,Brands and Branding,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2033&ay=2023/4&sys=0,,BEM1019 Fundamentals of Marketing,
+BEM2034,Digital Technologies and the Future of Work,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM2034&ay=2023/4&sys=0,,none,none
+BEM2035,Leading in International Contexts,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2035&ay=2023/4&sys=0,,None,None
+BEM2036,Thinking Entrepreneurially,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM2036&ay=2023/4&sys=0,,This module was previously namedCould You Be An Entrepreneur.It is not possible to enrol on this modules if you have previously completed BEM2010 Could You Be An Entrepreneur?,None
+BEM2037,Leadership: Challenges and Practice,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2037&ay=2023/4&sys=0,,None,None
+BEM2039,Business Analytics in Practice ,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM2039&ay=2023/4&sys=0,,None,None
+BEM2040,Database Technologies for Business Analytics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2040&ay=2023/4&sys=0,,BEM1024 Statistics for Business OR BEE1025 Statistics for Business and Management OR BEE1022 Introduction to StatisticsBEM1025 Programming for Business Analytics,
+BEM2041,Marketing Analytics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2041&ay=2023/4&sys=0,,BEM1025 Programming for Business AnalyticsBEM1024 Statistics for business or BEE1025 Statistics for Business and Management,
+BEM2044,Consumer and Market Analysis,30.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2044&ay=2023/4&sys=0,,BEM1019 Fundamentals of Marketing,None
+BEM2045,History of Black Entrepreneurship,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2045&ay=2023/4&sys=0,,None,None
+BEM2047,Organisational Behaviour ,30.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2047&ay=2023/4&sys=0,,None,None
+BEM2048,International Business,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM2048&ay=2023/4&sys=0,,None,None
+BEM2049,Confronting the Past in British Business,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2049&ay=2023/4&sys=0,,None,None
+BEM2054,Acting Entrepreneurially,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM2054&ay=2023/4&sys=0,,None,None
+BEM3022,Purchasing and Supply Management,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM3022&ay=2023/4&sys=0,,None,None
+BEM3030,International Business History,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM3030&ay=2023/4&sys=0,,None,None
+BEM3033,Strategic Management,30.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3033&ay=2023/4&sys=0,,You must have taken (BEM1018 or BEM1019 or BEM1023 or BEM1028) and (BEM2020 or BEM2047 or BEM2007 or BEM2027 or BEA2005 or BEA2019),None
+BEM3033A,Strategic Management,30.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3033A&ay=2023/4&sys=0,,You must have taken (BEA1005 or BEM1028) and (BEA2017).,None
+BEM3038,Co-operative Enterprise,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3038&ay=2023/4&sys=0,,None,None
+BEM3041,Marketing Management and Strategy,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3041&ay=2023/4&sys=0,,BEM1019 Fundamentals of Marketing or BEM2016 Consumer Behaviour,None
+BEM3046,Managing Human Resources: Advanced Issues,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3046&ay=2023/4&sys=0,,BEM2021,None
+BEM3047,Contemporary Leadership Issues,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3047&ay=2023/4&sys=0,,"None, although some understanding of leadership theory and practice will stand students in good stead for this module.",None
+BEM3048,Leading Change in Practice,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM3048&ay=2023/4&sys=0,,None,None
+BEM3048A,Leading Change in Practice,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3048A&ay=2023/4&sys=0,,None,None
+BEM3051,Organisational Development,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM3051&ay=2023/4&sys=0,,BEM2047 and BEM2021,None
+BEM3052,Managing Change and Crisis in Organisations,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3052&ay=2023/4&sys=0,,None.,None
+BEM3055,Ethics and Responsible Innovation,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM3055&ay=2023/4&sys=0,,None,None
+BEM3056,Business and Climate Change,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3056&ay=2023/4&sys=0,,None,None
+BEM3057,Employment Law for Managers,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM3057&ay=2023/4&sys=0,,None,None
+BEM3059,Circular Economy Business and Enterprise,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3059&ay=2023/4&sys=0,,None,None
+BEM3060,Managing Entrepreneurially ,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM3060&ay=2023/4&sys=0,,None,None
+BEM3061,Business Ignition - Idea to Implementation,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3061&ay=2023/4&sys=0,,Managing Entrepreneurially OR Thinking Entrepreneurially (previously “Could you be an entrepreneur?) OR Startup Entrepreneurship OR Entrepreneurial Value Creation (These are WPI Entrepreneurship modules),None
+BEM3062,Operations Analytics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM3062&ay=2023/4&sys=0,,BEM1024 OR BEE1022 OR BEE1025 OR BEA1012ANDBEM1025,None
+BEM3063,Strategic and HR Analytics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3063&ay=2023/4&sys=0,,BEM1024 OR BEE1022 OR BEE1025 OR BEA1012ANDBEM1025,None
+BEM3064,Analytics and Visualisation for Managers and Consultants,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3064&ay=2023/4&sys=0,,BEM1024 OR BEE1022 OR BEE1025 OR BEA1012ANDBEM1025,
+BEM3065,Strategy,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM3065&ay=2023/4&sys=0,,BEM1023 OR BEM1016 / BEM1016a OR BEA1005,Non requisite: BEM3033 / BEM3033A
+BEM3066,Marketing Issues and Trends,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM3066&ay=2023/4&sys=0,,BEM1019 Fundamentals of MarketingBEM1015 Marketing and SocietyBEM2016 Consumer BehaviourBEM2044 Consumer and Market AnalysisBEM2033 Brands & Branding,None
+BEM3067,Innovation for Urgent Global Challenges,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM3067&ay=2023/4&sys=0,,None,None
+BEM3069,Strategic Digital Marketing Practice,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3069&ay=2023/4&sys=0,,BEM1019 Fundamentals of Marketing and BEM2016 Consumer Behaviour,None
+BEM3070,"Media, Al and the Metaverse",15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEM3070&ay=2023/4&sys=0,,None,None
+BEM3072,Entrepreneurial Futures,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEM3072&ay=2023/4&sys=0,,None,None
+BEP1010,Business and Society,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP1010&ay=2023/4&sys=0,,None,None
+BEP1020,Business Practice and Analysis,15.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEP1020&ay=2023/4&sys=0,,None,None
+BEP1030,Operations Management: A Sustainable Perspective,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP1030&ay=2023/4&sys=0,,None,None
+BEP1034,Introduction to Innovation and Entrepreneurship,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP1034&ay=2023/4&sys=0,,None,None
+BEP1039,Impactful Innovation and Entrepreneurship,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP1039&ay=2023/4&sys=0,,None,None
+BEP1040,Marketing in a Digital Age,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP1040&ay=2023/4&sys=0,,None,None
+BEP1070,Accounting,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP1070&ay=2023/4&sys=0,,None,None
+BEP1080,Theory and Practice of Management,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP1080&ay=2023/4&sys=0,,None,None
+BEP1100,Understanding Work and Organisations,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP1100&ay=2023/4&sys=0,,None,None
+BEP1120,Introduction to Economics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP1120&ay=2023/4&sys=0,,None,None
+BEP1130,Introduction to 'With Industrial Experience',,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP1130&ay=2023/4&sys=0,,None,None
+BEP1140,Preparation for WYA With Year Abroad,,"1, 2 and 3",https://business-school.exeter.ac.uk/module/?mod_code=BEP1140&ay=2023/4&sys=0,,None,None
+BEP1150,"Environment, Society and Business",30.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEP1150&ay=2023/4&sys=0,,None,Cannot be taken with BEP1010
+BEP1160,Business History,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP1160&ay=2023/4&sys=0,,N/A,N/A
+BEP2020,Project Management,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP2020&ay=2023/4&sys=0,,None,None
+BEP2030,Business Practice (Placement/Work Experience Project),15.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEP2030&ay=2023/4&sys=0,,Module pre-requisites not found on the webpage.,
+BEP2040,Strategic Concepts for Business,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP2040&ay=2023/4&sys=0,,None,None
+BEP2050,Finance for Business,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP2050&ay=2023/4&sys=0,,None,None
+BEP2060,Research Inquiry for Practice,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP2060&ay=2023/4&sys=0,,None,None
+BEP2070,Social Enterprise Management,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP2070&ay=2023/4&sys=0,,None,None
+BEP2110,Workplace Wellbeing,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP2110&ay=2023/4&sys=0,,None,None
+BEP2120,Digital Technologies and the Future of Work,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP2120&ay=2023/4&sys=0,,None.,None.
+BEP2130,Preparation for 'with Year Abroad',,"1, 2 and 3",https://business-school.exeter.ac.uk/module/?mod_code=BEP2130&ay=2023/4&sys=0,,"Minimum overall weighted average of 50% in level 1 for European institutions and 60% in level 1 for International (non-European) institutions. Please note that this module is a pre-requisite for Level 3 Business School Year Abroad module BEP3100/BEP3100A.There may be some language requirements for specific host institutions, please contact the Global Opportunities Team for more information.",
+BEP2140,Business Analytics,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP2140&ay=2023/4&sys=0,,None,None
+BEP2150,Ecological Economics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP2150&ay=2023/4&sys=0,,None,None
+BEP2160,Institutional Economics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP2160&ay=2023/4&sys=0,,None,None
+BEP2180,With Industrial Experience Preparation,,"1, 2 and 3",https://business-school.exeter.ac.uk/module/?mod_code=BEP2180&ay=2023/4&sys=0,,A BEP1020 mark of 60% or higher and a minimum overall weighted average of 50% at level 1.(Please note this module is a pre-requisite for the level 3 Business School Industrial Experience module BEP3002).,None
+BEP2190,Understanding Financial Statements,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP2190&ay=2023/4&sys=0,,BEP1070,None
+BEP2200,Marketing Analytics,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP2200&ay=2023/4&sys=0,,None,None
+BEP2210,Circular Enterprise Economy,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP2210&ay=2023/4&sys=0,,None,None
+BEP2300,History of Black Entrepreneurship,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP2300&ay=2023/4&sys=0,,None,None
+BEP3002,Business School Industrial Experience (Penryn),120.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEP3002&ay=2023/4&sys=0,,Minimum overall weighted average of 50.0% in Level 1; satisfactory completion of the compulsory Placement Preparation modules BSD1002 (with minimum 50% mark) and BSD2002.,None
+BEP3010,Social and Technological Innovation,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP3010&ay=2023/4&sys=0,,None,None
+BEP3011,Business and Climate Change,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP3011&ay=2023/4&sys=0,,None,None
+BEP3020,Practice-Based Consultancy Management,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP3020&ay=2023/4&sys=0,,Module pre-requisites not found on the webpage.,None
+BEP3030,Globalisation and Internationalisation,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP3030&ay=2023/4&sys=0,,None,None
+BEP3040,Local-Global Innovation (Cornwall Research Seminar Series),15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP3040&ay=2023/4&sys=0,,None,None
+BEP3050,Future-Facing Dissertation/Project,30.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEP3050&ay=2023/4&sys=0,,BEP2060,
+BEP3070,Crisis: Change and Creativity in Organisations,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP3070&ay=2023/4&sys=0,,None,None
+BEP3090,Business Field Trip,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP3090&ay=2023/4&sys=0,,BEP2030 Business Practice,None
+BEP3100B,Year Abroad (Study),120.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEP3100B&ay=2023/4&sys=0,,BEP2130 1st year average of 60% required for International destinations (non-European) and 1st year average of 50% required for European destinations,
+BEP3100C,Year Abroad (Work Placement),120.0,"1, 2 and 3",https://business-school.exeter.ac.uk/module/?mod_code=BEP3100C&ay=2023/4&sys=0,,BEP2130 - 1st year average of 60% required for International destinations (non-European) and 1st year average of 50% required for European destinationsStudents wishing to undertake a work placement must have attended the compulsory talk as part of BEP2130 in Level 2.,
+BEP3100a,Year Abroad (Study and Work Placement),120.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BEP3100a&ay=2023/4&sys=0,,BEP2130 - 1st year average of 60% required for International destinations (non-European) and 1st year average of 50% required for European destinationsStudents wishing to undertake a work placement must have attended the compulsory talk as part of BEP2130 in Level 2.,
+BEP3110,Marketing Strategy,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEP3110&ay=2023/4&sys=0,,Module pre-requisites not found on the webpage.,
+BEP3130,Biomimicry,15.0,,https://business-school.exeter.ac.uk/module/?mod_code=BEP3130&ay=2023/4&sys=0,,None,None
+BEP3171,The Economy of Space,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEP3171&ay=2023/4&sys=0,,None,None
+BEP3172,Future 17: Sustainable Development Goals Challenge,15.0,"1, 2 and 3",https://business-school.exeter.ac.uk/module/?mod_code=BEP3172&ay=2023/4&sys=0,,90 credits at RCF Level 4,N/A
+BSD1002,Introduction to 'With Industrial Experience',,2 and 3,https://business-school.exeter.ac.uk/module/?mod_code=BSD1002&ay=2023/4&sys=0,,None,BEP1130 is the equivalent module for eligible Penryn students intending on pursuing WIE (exc. BSc Business)
+BSD2002,Career Management Skills for 'with Industrial Experience' Students,,"1, 2 and 3",https://business-school.exeter.ac.uk/module/?mod_code=BSD2002&ay=2023/4&sys=0,,"A BSD1002 mark of 50% or higher, and a minimum level 1 overall weighted average of 50%.Please see BEP2180 for Penryn equivalent.(Please note this module is a pre-requisite for the level 3 Business School Industrial Experience module BUS3002).",None
+BSD2005,Preparation for 'with Year Abroad',,"1, 2 and 3",https://business-school.exeter.ac.uk/module/?mod_code=BSD2005&ay=2023/4&sys=0,,"Minimum overall weighted average of 50% in Year 1 and Year 2 for European institutions and work placements abroad and 60% in Year 1 and Year 2 for International (non-European) institutions. Please note that this module is a pre-requisite for Year 3  Business School Year Abroad modules BUS3000A, BUS3000B and BUS3000C.There may be some language requirements for specific host institutions, please contact the Global Opportunities Team for more information.",None
+BUS1908,Preparation for WYA With Year Abroad,,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BUS1908&ay=2023/4&sys=0,,None,None
+BUS2001,Business Awareness: Theory and Practice,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BUS2001&ay=2023/4&sys=0,,None.,None.
+BUS2004,Business Internships and Placements,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BUS2004&ay=2023/4&sys=0,,Module pre-requisites not found on the webpage.,"WYA students can defer the BIP placement and written report until after the year abroad but before their final (4 th ) year. Students on the split work/study abroad must secure a different placement for BIP, as we will not count the WYA placement towards BIP. WYA students need to be aware that the normal rules of progression will still apply and they may be removed from the WYA programme if they do not meet all the necessary requirements.Cannot be taken by students on the 'With Industrial Experience' programme."
+BUS3000A,Year Abroad (Study and Work Placement),120.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BUS3000A&ay=2023/4&sys=0,,1st and 2nd year average of 60% required for studying at non-European destinations and 1st and 2nd year average of 50% required for studying at European destinations and/or working abroad.Students wishing to undertake a year abroad (work and /or study) must have attended the BSD2005 compulsory talks in Year 2.,None
+BUS3000B,Year Abroad (Study),120.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BUS3000B&ay=2023/4&sys=0,,1st and 2nd year average of 60% required for non-European destinations and 1st and 2nd year average of 50% required for European destinations.Students wishing to undertake a year abroad must have attended the BSD2005 compulsory talks in Year 2.,None
+BUS3000C,Year Abroad (Work Placement),120.0,"1, 2 and 3",https://business-school.exeter.ac.uk/module/?mod_code=BUS3000C&ay=2023/4&sys=0,,1st year and 2nd year average of 50% required students wishing to undertake a year abroad must have attended the compulsory talks as part of BSD2005 in Level 2.,None
+BUS3000D,Year Abroad (Study),120.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BUS3000D&ay=2023/4&sys=0,,1st year and 2nd year average of 60% required for International destinations (non-European) and 1st year and 2nd year average of 50% required for European destinations.Students wishing to undertake a year abroad must have attended the BSD2005 compulsory talks in Year 2.This module is for students on BA International Business and Modern Languages only.,N/A
+BUS3000E,Year Abroad (Work Placement),120.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BUS3000E&ay=2023/4&sys=0,,BSD2005 - Preparation for 'with Year Abroad'. Students wishing to undertake a work placement must have attended the compulsory talk as part of BSD2005 in Level 2.1st year and 2nd year average of 50% required. The discretion of the Director of Education/Programme Director may be applied where students do not fully achieve the required averages.This module is for students on BA International Business and Modern Languages only.,None
+BUS3000F,Study and Work Placement,120.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BUS3000F&ay=2023/4&sys=0,,BSD2005 - Preparation for 'with Year Abroad'1st year and 2nd Year average of 60% required for International destinations (non-European) and 1st year and 2nd year average of 50% required for European destinations and/or working abroad.This module is for students on BA International Business and Modern Languages only.,N/A
+BUS3001,Dissertation,30.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BUS3001&ay=2023/4&sys=0,,None,None
+BUS3002,Business School Industrial Experience,120.0,1 and 2,https://business-school.exeter.ac.uk/module/?mod_code=BUS3002&ay=2023/4&sys=0,,Minimum overall weighted average of 50.0% in Level 1; satisfactory completion of the compulsory Placement Preparation modules BSD1002 (with minimum 50% mark) and BSD2002.,None
