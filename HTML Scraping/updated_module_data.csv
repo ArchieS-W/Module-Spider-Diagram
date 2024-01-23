@@ -1,4 +1,4 @@
-Module Code,Module Title,Credits,Term,ELE Link,Prerequisites,Coerequisites,Prerequisite_Codes,Coerequisite_Codes,Non_Requisite_Codes,Year
+Module Code,Module Title,Credits,Term,ELE Link,prerequisites,Prerequisites,Coerequisites,Prerequisite_Codes,Coerequisite_Codes,Non_Requisite_Codes,Year
 BEA1003,Business Law for Accountants,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEA1003&ay=2023/4&sys=0,,This module is for Accounting students only,BEA1008,[],['BEA1008'],[],1
 BEA1008,Introduction to Financial Accounting,15.0,1,https://business-school.exeter.ac.uk/module/?mod_code=BEA1008&ay=2023/4&sys=0,,None,Cannot be taken concurrently with BEA1013 Introduction to Accounting,[],['BEA1013'],[],1
 BEA1009,Introduction to Management Accounting,15.0,2,https://business-school.exeter.ac.uk/module/?mod_code=BEA1009&ay=2023/4&sys=0,,Module pre-requisites not found on the webpage.,BEA1008 Introduction to Financial AccountingCannot be taken with BEA1013 Introduction to Accounting,[],['BEA1008'],['BEA1013'],1

@@ -1,0 +1,199 @@
+Module Code,Prerequisites,Coerequisites
+Business Law for Accountants,This module is for Accounting students only,BEA1008
+Introduction to Financial Accounting,,Cannot be taken concurrently with BEA1013 Introduction to Accounting
+Introduction to Management Accounting,Module pre-requisites not found on the webpage.,BEA1008 Introduction to Financial AccountingCannot be taken with BEA1013 Introduction to Accounting
+Business Finance for Accountants,This module is for Accounting students only,BEA1008 Introduction to Financial AccountingNon-requisites: Cannot be taken with BEE1024 Mathematics for Economists.
+Introduction to Statistics for Accountants,This module is for Accounting students only,"Non-requisites: Cannot be taken with BEE1022, BEE1025 or BEM1024."
+Introduction to Accounting,,Not to be taken with BEA1008 or BEA1009.
+Taxation,BEA1008 Introduction to Financial Accounting or BEA1013 Introduction to Accounting,
+Managerial Accounting,BEA1013 Introduction to Accounting,Cannot be taken with BEA2017 Intermediate Management Accounting or BEA3017 Advanced Management Accounting
+Intermediate Management Accounting,BEA1009 Introduction to Management Accounting,Cannot be taken with BEA2010 Managerial Accounting
+Corporate Finance,BEA1010,Cannot be taken with BEE3059 or BEA3008
+Financial Accounting A,BEA/INT1008 Introduction to Financial Accounting,BEA2020 Financial Accounting B
+Financial Accounting B,BEA/INT1008 Introduction to Financial Accounting,BEA2019 Financial Accounting A
+Finance for Managers,BEA2010 Managerial Accounting,"Cannot be taken BEA2018, BEA3018 or BEE3059"
+Corporate Law,BEA1003.Please note this module cannot be taken with LAW3083,
+Advanced Management Accounting,BEA2017,Cannot be taken with BEA2010 managerial accounting
+Advanced Corporate Finance,BEA2018 Corporate Finance,Cannot be taken with BEA3008 or BEE3059
+Advanced Financial Reporting,BEA2019 and BEA2020,
+Auditing,BEA2019 and BEA2020 (For UG students),BEAM024 (For MSc Accounting & Finance students)
+Financial Modelling,BEA2018 Corporate Finance Or BEE2027 Financial Markets and Decisions,
+"Accounting, Organisations and Society",,
+Sustainable and Responsible Finance,,
+Introduction to Finance,,
+Introduction to Statistics,Grade B or higher in A-Level Mathematics (or equivalent),"Cannot be taken with BEE1025, BEM1024 or BEA1012This module is not available to Maths students"
+Introduction to Econometrics,Grade B or higher in A-Level Mathematics (or equivalent)BEE1022orBEE1025orBEA1012orINT1003,Cannot be taken with MTH1004 (non-requisite)
+Mathematics for Economists,BEE1035 or A level Mathematics at Grade B or above (or equivalent),Non-Req - Cannot be taken with BEA1010 or at the same time as BEE1035.Not available to 2ndyear AF students or Maths students
+Statistics for Business and Management,,"Cannot be taken with BEE1022 Introduction to Statistics, BEA1012 Introduction to Statistics for Accountants or BEM1024 Statistics for Business.Please note that this module is also not available to Maths students."
+Economic Principles,,Non-requisites (cannot be taken with): BEE1034 or BEE1036 or BEE1037
+History of Economic Thought,,BEE1030 or BEE1031 or BEE1029 or BEE1034
+Economics for Management,,"noneNon-requisites: Cannot be taken with BEE1029, BEE1036 or BEE1037"
+Basic Quantitative Methods,None.,"Non-Req: Cannot be taken with BEE1024 in the same academic yearNot available to 2ndyear AF students, Maths students or Direct Entry Business Economics students."
+Economics I,A Level Maths at Grade B or above (or Equivalent),BEE1024. Cannot be taken with BEE1029 or BEE1034
+Economics II,BEE1036,Cannot be taken with BEE1029 or BEE1034
+Introduction to Data Science in Economics,,BEE1022 or BEE1025
+Introduction to Behavioural Economics,,BEE1029 or BEE1036 and BEE1037
+Personal Finance,,
+Philosophy of Economics,None. Please note if you have taken BEE1015 you will not be able to take BEE2010,
+Introduction to Econometric Theory,BEE1022andBEE1023,BEE2006orBEE2031
+Policy Issues in the Global Economy,,BEE2038 and BEE2039orBEE2025 and BEE2026
+Microeconomics II,Passed BEE1036 and passed BEE1037 (or BEE1029 for PPE students only),"Non-Requisites (cannot be taken with): BEE2038, BEE2039, BEE3062 or BEE3063"
+Macroeconomics II,Passed BEE1036 and passed BEE1037,"Non-Requisites (cannot be taken with): BEE2038, BEE2039, or BEE3062."
+Financial Markets and Decisions I,,BEE2025
+Economics and Ethics,BEE1029 or BEE1034 or BEE1036 and BEE1037,
+Econometrics,BEE1023,
+Applied Econometrics,BEE2031,BEE2031 or BEE2006
+Public Finance,BEE1029 or BEE1034 or (BEE1036 and BEE1037),
+Environmental Economics,BEE1036 and BEE1037 or BEE1029,
+Family Economics and Policy,BEE1036 and BEE1037 or BEE1029,
+Money and Banking,BEE1029 or (BEE1036 and BEE1037),BEE2038 and BEE2039 or BEE2025 and BEE2026
+Intermediate Microeconomics,BEE1029 or BEE1034 OR BEE1036 and BEE1037,Cannot be taken with BEE2025 and BEE2026
+Intermediate Macroeconomics,BEE1029 or BEE1034 or BEE1036 and BEE1037,Cannot be taken with BEE2025 and BEE2026
+The Economics of Financial Crises,,None. Cannot be taken with BEE3051.
+Data Science in Economics,BEE1038,
+Behavioural Insights for Business and Management,BEE1036 or BEE1029,
+Industrial Organisation,"BEE1036, BEE1024",
+Game Theory,BEE1036 and BEE1037,
+Econometric Analysis,BEE2031 and BEE2020,
+Law and Economics,BEE2025 OR BEE2038,
+Futures and Options,BEE1029 or BEE1030 or (BEE1036 and BEE1037) or BEE2024 or (BEE2038 and BEE2039),
+Financial Markets and Decisions 2,BEE2027,
+International Political Economy,,
+International Economics,BEE2025,
+Public Economics 1,BEE2024 or BEE2038 or BEE2025,
+"Behaviour, Decisions and Markets",BEE2025,
+Development Economics,BEE2024 or BEE2038 and BEE2039 or BEE2025 and BEE2026,None. Cannot be taken with BEE3052A
+Economic Growth,BEE2039 or BEE2026,
+Advanced Mathematics for Economists,BEE2025 or BEE2026 or BEE1029 or BEE1034,
+Labour Economics,BEE2025 and BEE2026,
+Political Economics,BEE2025 and BEE2026,
+Asset Pricing,(passed BEE1024 and BEE1023 and BEE2025) or (MTH2008 and MTH2011),Cannot be taken with BEA2018 or BEA3018 or BEA3008
+Economics of Management Strategy,BEE1035 Basic Quantitative Methods or an A-Level in Mathematics or equivalent)BEE2038 Intermediate Microeconomics,Cannot be taken with BEE2025 or BEE2043
+Machine Learning for Economics,BEE2031 or BEE2041,
+Economics Dissertation,BEE1038 or BEE2041 or BEE2032 (or one of the co-requisites: BEE3066 or BEE3071) (effective March 2024 for academic year 2024-2025).,BEE3066 or BEE3071 (or one of the pre-requisites: BEE1038 or BEE2041 or BEE2032) (effective March 2024 for academic year 2024-2025). Not to be taken with BUS3001.
+Behavioural Economics: Theory and Practice,"PrerequisitesFor Economics students: BEE1024 Mathematics for Economists AND BEE2025 Microeconomics IIFor non-Economics students (e.g. Maths, Physics, Engineering, Computer Science, Accounting and Finance): BEE1024 Mathematics for Economists or equivalentStudents with strong mathematical background (e.g. Mathematics, Computer Science, Data Science, Finance) interested in this module are encouraged to contact the convener even if you do not meet the pre-requisite requirements.",
+Economic Analysis and Pandemics,"There are no pre-requisites for this module but students without some exposure to economics, basic econometrics and rigorous analytical thinking may find they need to do some additional reading.",
+Applied Econometrics for Business,Either BEE1022 or BEE1025 or BEA1012;andBEE2038 and BEE2039Please note this module cannot be taken by students who have previously studied BEE2025 and BEE2026.,
+Econometrics: Cause and Effect,BEE2031,
+Economics of Culture and Institutions,"BEE2038 and BEE2039, or BEE2025 and BEE2026",
+Economics of Crime,BEE2025 or BEE2038.,
+"Bitcoin, Money and Trust",There are no pre-requisites for this module but students without either programming or economics experience may find they need to do some additional reading,
+Marketing and Society,BEM1019,
+Fundamentals of Marketing,Module pre-requisites not found on the webpage.,Non-requisite: INT1012 Fundamentals of Marketing
+Leadership and Teams,,
+Introduction to Leadership Studies,,
+Discovering Management,,Cannot be taken with BEM1028 or BEM1016 / BEM1016a
+Statistics for Business,This module is not available to Maths students.,Cannot be taken with BEE1022 or BEA1012 or BEE1025
+Programming for Business Analytics,,
+The International Business Context,,
+Introduction to Business and Management,This module is for students studying accountancy only.,
+Introduction to Innovation and Entrepreneurship,,
+Impactful Innovation and Entrepreneurship,Module pre-requisites not found on the webpage.,
+Operations Management,,
+Consumer Behaviour,BEM1019,
+Human Resource Management,BEM1023 or BEM1028.,
+Marketing Communications: Strategies and Applications,BEM1019 Fundamentals of Marketing,
+Information Systems,,none
+Introduction to Business Analytics,"BEE1025 Statistics for Business and Management or BEE1022 Introduction to Statistics or BEA1012 Introduction to Statistics for Accountants or MTH1004 Probability, Statistics and Data or MTH2006 Statistical Modelling and Inference",
+Brands and Branding,BEM1019 Fundamentals of Marketing,
+Digital Technologies and the Future of Work,none,none
+Leading in International Contexts,,
+Thinking Entrepreneurially,This module was previously namedCould You Be An Entrepreneur.It is not possible to enrol on this modules if you have previously completed BEM2010 Could You Be An Entrepreneur?,
+Leadership: Challenges and Practice,,
+Business Analytics in Practice ,,
+Database Technologies for Business Analytics,BEM1024 Statistics for Business OR BEE1025 Statistics for Business and Management OR BEE1022 Introduction to StatisticsBEM1025 Programming for Business Analytics,
+Marketing Analytics,BEM1025 Programming for Business AnalyticsBEM1024 Statistics for business or BEE1025 Statistics for Business and Management,
+Consumer and Market Analysis,BEM1019 Fundamentals of Marketing,
+History of Black Entrepreneurship,,
+Organisational Behaviour ,,
+International Business,,
+Confronting the Past in British Business,,
+Acting Entrepreneurially,,
+Purchasing and Supply Management,,
+International Business History,,
+Strategic Management,You must have taken (BEM1018 or BEM1019 or BEM1023 or BEM1028) and (BEM2020 or BEM2047 or BEM2007 or BEM2027 or BEA2005 or BEA2019),
+Strategic Management,You must have taken (BEA1005 or BEM1028) and (BEA2017).,
+Co-operative Enterprise,,
+Marketing Management and Strategy,BEM1019 Fundamentals of Marketing or BEM2016 Consumer Behaviour,
+Managing Human Resources: Advanced Issues,BEM2021,
+Contemporary Leadership Issues,"None, although some understanding of leadership theory and practice will stand students in good stead for this module.",
+Leading Change in Practice,,
+Leading Change in Practice,,
+Organisational Development,BEM2047 and BEM2021,
+Managing Change and Crisis in Organisations,None.,
+Ethics and Responsible Innovation,,
+Business and Climate Change,,
+Employment Law for Managers,,
+Circular Economy Business and Enterprise,,
+Managing Entrepreneurially ,,
+Business Ignition - Idea to Implementation,Managing Entrepreneurially OR Thinking Entrepreneurially (previously “Could you be an entrepreneur?) OR Startup Entrepreneurship OR Entrepreneurial Value Creation (These are WPI Entrepreneurship modules),
+Operations Analytics,BEM1024 OR BEE1022 OR BEE1025 OR BEA1012ANDBEM1025,
+Strategic and HR Analytics,BEM1024 OR BEE1022 OR BEE1025 OR BEA1012ANDBEM1025,
+Analytics and Visualisation for Managers and Consultants,BEM1024 OR BEE1022 OR BEE1025 OR BEA1012ANDBEM1025,
+Strategy,BEM1023 OR BEM1016 / BEM1016a OR BEA1005,Non requisite: BEM3033 / BEM3033A
+Marketing Issues and Trends,BEM1019 Fundamentals of MarketingBEM1015 Marketing and SocietyBEM2016 Consumer BehaviourBEM2044 Consumer and Market AnalysisBEM2033 Brands & Branding,
+Innovation for Urgent Global Challenges,,
+Strategic Digital Marketing Practice,BEM1019 Fundamentals of Marketing and BEM2016 Consumer Behaviour,
+"Media, Al and the Metaverse",,
+Entrepreneurial Futures,,
+Business and Society,,
+Business Practice and Analysis,,
+Operations Management: A Sustainable Perspective,,
+Introduction to Innovation and Entrepreneurship,,
+Impactful Innovation and Entrepreneurship,,
+Marketing in a Digital Age,,
+Accounting,,
+Theory and Practice of Management,,
+Understanding Work and Organisations,,
+Introduction to Economics,,
+Introduction to 'With Industrial Experience',,
+Preparation for WYA With Year Abroad,,
+"Environment, Society and Business",,Cannot be taken with BEP1010
+Business History,,
+Project Management,,
+Business Practice (Placement/Work Experience Project),Module pre-requisites not found on the webpage.,
+Strategic Concepts for Business,,
+Finance for Business,,
+Research Inquiry for Practice,,
+Social Enterprise Management,,
+Workplace Wellbeing,,
+Digital Technologies and the Future of Work,None.,None.
+Preparation for 'with Year Abroad',"Minimum overall weighted average of 50% in level 1 for European institutions and 60% in level 1 for International (non-European) institutions. Please note that this module is a pre-requisite for Level 3 Business School Year Abroad module BEP3100/BEP3100A.There may be some language requirements for specific host institutions, please contact the Global Opportunities Team for more information.",
+Business Analytics,,
+Ecological Economics,,
+Institutional Economics,,
+With Industrial Experience Preparation,A BEP1020 mark of 60% or higher and a minimum overall weighted average of 50% at level 1.(Please note this module is a pre-requisite for the level 3 Business School Industrial Experience module BEP3002).,
+Understanding Financial Statements,BEP1070,
+Marketing Analytics,,
+Circular Enterprise Economy,,
+History of Black Entrepreneurship,,
+Business School Industrial Experience (Penryn),Minimum overall weighted average of 50.0% in Level 1; satisfactory completion of the compulsory Placement Preparation modules BSD1002 (with minimum 50% mark) and BSD2002.,
+Social and Technological Innovation,,
+Business and Climate Change,,
+Practice-Based Consultancy Management,Module pre-requisites not found on the webpage.,
+Globalisation and Internationalisation,,
+Local-Global Innovation (Cornwall Research Seminar Series),,
+Future-Facing Dissertation/Project,BEP2060,
+Crisis: Change and Creativity in Organisations,,
+Business Field Trip,BEP2030 Business Practice,
+Year Abroad (Study),BEP2130 1st year average of 60% required for International destinations (non-European) and 1st year average of 50% required for European destinations,
+Year Abroad (Work Placement),BEP2130 - 1st year average of 60% required for International destinations (non-European) and 1st year average of 50% required for European destinationsStudents wishing to undertake a work placement must have attended the compulsory talk as part of BEP2130 in Level 2.,
+Year Abroad (Study and Work Placement),BEP2130 - 1st year average of 60% required for International destinations (non-European) and 1st year average of 50% required for European destinationsStudents wishing to undertake a work placement must have attended the compulsory talk as part of BEP2130 in Level 2.,
+Marketing Strategy,Module pre-requisites not found on the webpage.,
+Biomimicry,,
+The Economy of Space,,
+Future 17: Sustainable Development Goals Challenge,90 credits at RCF Level 4,
+Introduction to 'With Industrial Experience',,BEP1130 is the equivalent module for eligible Penryn students intending on pursuing WIE (exc. BSc Business)
+Career Management Skills for 'with Industrial Experience' Students,"A BSD1002 mark of 50% or higher, and a minimum level 1 overall weighted average of 50%.Please see BEP2180 for Penryn equivalent.(Please note this module is a pre-requisite for the level 3 Business School Industrial Experience module BUS3002).",
+Preparation for 'with Year Abroad',"Minimum overall weighted average of 50% in Year 1 and Year 2 for European institutions and work placements abroad and 60% in Year 1 and Year 2 for International (non-European) institutions. Please note that this module is a pre-requisite for Year 3  Business School Year Abroad modules BUS3000A, BUS3000B and BUS3000C.There may be some language requirements for specific host institutions, please contact the Global Opportunities Team for more information.",
+Preparation for WYA With Year Abroad,,
+Business Awareness: Theory and Practice,None.,None.
+Business Internships and Placements,Module pre-requisites not found on the webpage.,"WYA students can defer the BIP placement and written report until after the year abroad but before their final (4 th ) year. Students on the split work/study abroad must secure a different placement for BIP, as we will not count the WYA placement towards BIP. WYA students need to be aware that the normal rules of progression will still apply and they may be removed from the WYA programme if they do not meet all the necessary requirements.Cannot be taken by students on the 'With Industrial Experience' programme."
+Year Abroad (Study and Work Placement),1st and 2nd year average of 60% required for studying at non-European destinations and 1st and 2nd year average of 50% required for studying at European destinations and/or working abroad.Students wishing to undertake a year abroad (work and /or study) must have attended the BSD2005 compulsory talks in Year 2.,
+Year Abroad (Study),1st and 2nd year average of 60% required for non-European destinations and 1st and 2nd year average of 50% required for European destinations.Students wishing to undertake a year abroad must have attended the BSD2005 compulsory talks in Year 2.,
+Year Abroad (Work Placement),1st year and 2nd year average of 50% required students wishing to undertake a year abroad must have attended the compulsory talks as part of BSD2005 in Level 2.,
+Year Abroad (Study),1st year and 2nd year average of 60% required for International destinations (non-European) and 1st year and 2nd year average of 50% required for European destinations.Students wishing to undertake a year abroad must have attended the BSD2005 compulsory talks in Year 2.This module is for students on BA International Business and Modern Languages only.,
+Year Abroad (Work Placement),BSD2005 - Preparation for 'with Year Abroad'. Students wishing to undertake a work placement must have attended the compulsory talk as part of BSD2005 in Level 2.1st year and 2nd year average of 50% required. The discretion of the Director of Education/Programme Director may be applied where students do not fully achieve the required averages.This module is for students on BA International Business and Modern Languages only.,
+Study and Work Placement,BSD2005 - Preparation for 'with Year Abroad'1st year and 2nd Year average of 60% required for International destinations (non-European) and 1st year and 2nd year average of 50% required for European destinations and/or working abroad.This module is for students on BA International Business and Modern Languages only.,
+Dissertation,,
+Business School Industrial Experience,Minimum overall weighted average of 50.0% in Level 1; satisfactory completion of the compulsory Placement Preparation modules BSD1002 (with minimum 50% mark) and BSD2002.,
